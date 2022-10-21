@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "Nekst";
+  src: url("../font/next/Nekst-SemiBold.eot");
+  src: local("Nekst Semi Bold"), local("Nekst-SemiBold"), url("../font/next/Nekst-SemiBold.eot?#iefix") format("embedded-opentype"), url("../font/next/Nekst-SemiBold.woff2") format("woff2"), url("../font/next/Nekst-SemiBold.woff") format("woff"), url("../font/next/Nekst-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nekst";
+  src: url("../font/next/Nekst-Regular.eot");
+  src: local("Nekst"), local("Nekst-Regular"), url("../font/next/Nekst-Regular.eot?#iefix") format("embedded-opentype"), url("../font/next/Nekst-Regular.woff2") format("woff2"), url("../font/next/Nekst-Regular.woff") format("woff"), url("../font/next/Nekst-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nekst";
+  src: url("../font/next/Nekst-Bold.eot");
+  src: local("Nekst Bold"), local("Nekst-Bold"), url("../font/next/Nekst-Bold.eot?#iefix") format("embedded-opentype"), url("../font/next/Nekst-Bold.woff2") format("woff2"), url("../font/next/Nekst-Bold.woff") format("woff"), url("../font/next/Nekst-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nekst";
+  src: url("../font/next/Nekst-Medium.eot");
+  src: local("Nekst Medium"), local("Nekst-Medium"), url("../font/next/Nekst-Medium.eot?#iefix") format("embedded-opentype"), url("../font/next/Nekst-Medium.woff2") format("woff2"), url("../font/next/Nekst-Medium.woff") format("woff"), url("../font/next/Nekst-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nekst";
+  src: url("../font/next/Nekst-Light.eot");
+  src: local("Nekst Light"), local("Nekst-Light"), url("../font/next/Nekst-Light.eot?#iefix") format("embedded-opentype"), url("../font/next/Nekst-Light.woff2") format("woff2"), url("../font/next/Nekst-Light.woff") format("woff"), url("../font/next/Nekst-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("../font/sf/SF-Pro-Display-Bold.eot");
+  src: local("SF Pro Display Bold"), local("SF Pro Display-Bold"), url("../font/sf/SF-Pro-Display-Bold.eot?#iefix") format("embedded-opentype"), url("../font/sf/SF-Pro-Display-Bold.woff2") format("woff2"), url("../font/sf/SF-Pro-Display-Bold.woff") format("woff"), url("../font/sf/SF-Pro-Display-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("../font/sf/SF-Pro-Display-Light.eot");
+  src: local("SF Pro Display Light"), local("SF Pro Display-Light"), url("../font/sf/SF-Pro-Display-Light.eot?#iefix") format("embedded-opentype"), url("../font/sf/SF-Pro-Display-Light.woff2") format("woff2"), url("../font/sf/SF-Pro-Display-Light.woff") format("woff"), url("../font/sf/SF-Pro-Display-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("../font/sf/SF-Pro-Display-Regular.eot");
+  src: local("SF Pro Display Regular"), local("SF Pro Display-Regular"), url("../font/sf/SF-Pro-Display-Regular.eot?#iefix") format("embedded-opentype"), url("../font/sf/SF-Pro-Display-Regular.woff2") format("woff2"), url("../font/sf/SF-Pro-Display-Regular.woff") format("woff"), url("../font/sf/SF-Pro-Display-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
